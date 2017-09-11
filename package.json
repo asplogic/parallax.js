@@ -1,0 +1,19 @@
+{
+  "name": "parallax.js",
+  "version": "1.4.2",
+  "description": "Clone of https://github.com/pixelcog/parallax.js",
+  "main": "parallax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asplogic/parallax.js.git"
+  },
+  "author": "mikegreiling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asplogic/parallax.js/issues"
+  },
+  "homepage": "https://github.com/asplogic/parallax.js#readme"
+}
